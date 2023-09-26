@@ -1,0 +1,7 @@
+url: https://zauchnerp.github.io/trialrep/
+
+footer:
+  structure:
+    left: legal
+  components:
+    legal: <a href="https://zauchnerp.github.io/index.html">Site notice</a>
